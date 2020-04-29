@@ -1,6 +1,7 @@
-# Chirp
+# Chirp - The Code with Chris McCord Version
 
-This is a tutorial by Chris McCord (https://youtu.be/MZvmYaFkNJI), I'm not yet sure if I'll continue it further.
+This is a tutorial by Chris McCord (https://youtu.be/MZvmYaFkNJI), 
+I have removed the code that Chris McCord inputs in the video.  All of the other goodies that allow for the great icons that Chris uses as well as other code that is not shown.  This allows you to code along and have the exact returns that are shown in the video.
 
 To start Phoenix server:
 
