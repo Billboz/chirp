@@ -1,6 +1,9 @@
 # Chirp - The 'Code Along' with Chris McCord Version
 
 This is a demo of the latest magic that is baked into Phoenix by Chris McCord (https://youtu.be/MZvmYaFkNJI). 
+
+Thank you Mark Tityuk, dersnek on GitHub, for uploading the completed app!  Check out his games on https://katatagames.com!
+
 I have removed the code that Chris McCord inputs in the video excluding some of the post_component.ex file where the code runs off screen.  All of the other goodies that allow for the great icons that Chris uses as well as other code that is not shown is intact.  This allows you to code along and have the exact returns that are shown in the video.
 
 This repo is complete with everything up through the 'mix phx.server' command including the LiveView routes are in place. The "mix setup" takes care of both "mix ecto.create" and "mix ecto.migrate".
