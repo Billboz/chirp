@@ -18,6 +18,7 @@
                         'Elixir.ChirpWeb.PageLive',
                         'Elixir.ChirpWeb.PostLive.FormComponent',
                         'Elixir.ChirpWeb.PostLive.Index',
+                        'Elixir.ChirpWeb.PostLive.PostComponent',
                         'Elixir.ChirpWeb.PostLive.Show',
                         'Elixir.ChirpWeb.Router',
                         'Elixir.ChirpWeb.Router.Helpers',
