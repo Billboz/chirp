@@ -3,6 +3,7 @@
 This is a demo of the latest magic that is baked into Phoenix by Chris McCord (https://youtu.be/MZvmYaFkNJI). 
 
 Thank you Mark Tityuk, dersnek on GitHub, for uploading the completed app!  Check out his games on https://katatagames.com!
+If you want to just run the completed app use what I forked at https://github.com/dersnek/chirp.
 
 I have removed the code that Chris McCord inputs in the video excluding some of the post_component.ex file where the code runs off screen.  All of the other goodies that allow for the great icons that Chris uses as well as other code that is not shown is intact.  This allows you to code along and have the exact returns that are shown in the video.
 
